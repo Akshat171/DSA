@@ -109,6 +109,13 @@ void remove(int i)
 }
 int main()
 {
+    //        17
+    //       / \
+    //     13  7
+    //   /  \  / \
+    //  11  2 4  5
+    //  / \
+    // 1  3
     Insert(4);
     Insert(2);
     Insert(5);
